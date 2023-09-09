@@ -19,10 +19,15 @@ Additionally, to save Plotly charts as image files, you need to install Kaleido:
 Data for the G7 and BRICS countries is collected using the World Bank API. The following economic indicators are collected:
 
 Total Population
+
 Nominal GDP
+
 PPP GDP
+
 Nominal GDP Per Capita
+
 PPP GDP Per Capita
+
 Total Exports
 
 # Pre-processing and Formatting
