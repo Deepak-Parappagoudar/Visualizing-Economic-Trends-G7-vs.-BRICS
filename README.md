@@ -55,3 +55,6 @@ Animated bar charts showcasing Total Exports over time for individual G7 and BRI
 These visualizations provide insights into the economic performance of individual countries within the G7 and BRICS groups.
 
 Feel free to explore the notebook for a detailed analysis of economic data and visualizations for the G7 and BRICS countries. You can run the code and generate your own visualizations based on the collected data.
+
+
+A detailed explaination is avaialable as a blog at https://medium.com/@deepakpg70/visualizing-economic-trends-g7-vs-brics-part1-60c1246db898.
