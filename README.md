@@ -1,10 +1,12 @@
 # Visualizing-Economic-Trends-G7-vs.-BRICS
 
-Introduction
+# Introduction
+
 This Jupyter Notebook analyzes economic data for the G7 (Group of Seven) and BRICS (Brazil, Russia, India, China, South Africa) countries. The data includes various economic indicators such as nominal GDP, nominal GDP per capita, population, PPP (Purchasing Power Parity) GDP, PPP GDP per capita, and total exports.
 
 
-Installation
+# Installation
+
 Before running the notebook, make sure to install the required Python packages. You can do this by running the following command:
 
 !pip install wbgapi squarify
@@ -12,7 +14,8 @@ Additionally, to save Plotly charts as image files, you need to install Kaleido:
 
 !pip install -U kaleido
 
-Data Collection
+# Data Collection
+
 Data for the G7 and BRICS countries is collected using the World Bank API. The following economic indicators are collected:
 
 Total Population
@@ -21,13 +24,14 @@ PPP GDP
 Nominal GDP Per Capita
 PPP GDP Per Capita
 Total Exports
-<a name="pre-processing-and-formatting"></a>
 
-Pre-processing and Formatting
+# Pre-processing and Formatting
+
 The collected data is preprocessed and formatted to improve readability and consistency. Column names are renamed, and the data is sorted by country and time.
 
 
-Visualizing the Comparison
+# Visualizing the Comparison
+
 The notebook includes visualizations to compare economic indicators between the G7 and BRICS countries over time. The following comparisons are made:
 
 Nominal GDP Comparison
@@ -39,7 +43,8 @@ Total Exports Comparison
 These comparisons are visualized using line charts to highlight the differences and trends over the years.
 
 
-Visualizing the Comparison Amongst Countries
+# Visualizing the Comparison Amongst Countries
+
 In addition to comparing G7 and BRICS as groups, the notebook also visualizes the economic distribution among individual countries within these groups. The following visualizations are included:
 
 Treemap visualizations to show GDP distribution in G7 and BRICS countries in 2022.
